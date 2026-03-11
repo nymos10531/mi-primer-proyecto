@@ -1,0 +1,15 @@
+body{
+
+    background-image: url(../img/fondologin/fondologin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+    margin: 0;
+
+}
+
+.navbar-custom {
+    background-color: #6a0dad; /* Color púrpura personalizado */
+    color: white;
+}
